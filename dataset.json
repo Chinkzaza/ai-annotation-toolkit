@@ -1,0 +1,5 @@
+[
+  {"text": "AI is transforming industries.", "label": "technology"},
+  {"text": "Healthcare diagnostics are improving with machine learning.", "label": "healthcare"},
+  {"text": "Financial forecasting can use AI models.", "label": "finance"}
+]
